@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/pai-code-reviewer-banner.png"
+       width="100%"
+       alt="PAI Code Reviewer - Análise Inteligente de Código">
+</p>
+
 # 🔍 PAI Code Reviewer - Analisador de Código Python
 
 Ferramenta de revisão de código Python assistida por IA, focada em identificar bugs, vulnerabilidades de segurança, problemas de performance (Big O) e conformidade com PEP 8.
